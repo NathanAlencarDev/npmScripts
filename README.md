@@ -75,8 +75,3 @@ No bloco `"scripts"` do `package.json`:
 🗂️ *Scripts organizados facilitam o entendimento, a manutenção e o onboarding de novos devs.*
 
 ---
-
-🔁 **Automatize. Padronize. Evolua.**
-Use NPM Scripts para transformar comandos repetitivos em fluxos simples e rápidos!
-
-```
