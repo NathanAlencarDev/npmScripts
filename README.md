@@ -1,10 +1,10 @@
-````markdown
+
 # 🚀 NPM Scripts — Automatize seu Fluxo com Agilidade
 
 Os **NPM Scripts** são comandos personalizados definidos dentro do arquivo `package.json` que aumentam a produtividade e simplificam tarefas comuns com uma única linha no terminal.
 
 📌 Comando base:
-```bash
+```
 npm run <nome-do-script>
 ````
 
