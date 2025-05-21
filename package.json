@@ -1,0 +1,17 @@
+{
+  "name": "npm-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "prebuild": "npm install",
+    "start:dev": "node src/indx.js",
+    "start:watch": "node --watch src/index.js",
+    "test:run": "..",
+    "test:unit": ".."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
